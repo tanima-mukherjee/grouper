@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jishnu Saha <jishnu.php@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "SignUp"
+msgstr "Registrarse"
+
+msgid "Login"
+msgstr "Entrar"
+
+msgid "For Users"
+msgstr "Para usuarios"
+
+msgid "For VIP & Merchants"
+msgstr "Para VIP y Negocios"
+
+msgid "Follow VIP"
+msgstr "Estado/Provincia"
+
+msgid "Earn miles"
+msgstr "mundo"
+
+msgid "Redeem deals"
+msgstr "País"
+
+msgid "Chat"
+msgstr "Estado/Provincia"
+
+msgid "Group chat"
+msgstr "mundo"
+
+msgid "Make new friends"
+msgstr "País"
+
+msgid "Audio message"
+msgstr "Estado/Provincia"
+
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+msgid "REGISTER YOUR MERCHANT ACCOUNT"
+msgstr "Registra tu cuenta de Negocio"
+
+msgid "The users in chat4miles earn miles when they follow VIP."
+msgstr "Los usuarios de chat4miles ganan millas cuando siguen a un VIP."
+
+msgid "When you sign up as Merchant you can create deals with discounts. The "
+msgstr ""
+"Cuando te registras como Negocio puedes crear ofertas con descuentos. La "
+
+msgid ""
+"platform will automatically deduct the amount of miles necessary to match "
+msgstr ""
+"plataforma reducirá automaticamente la cantidad de millas necesarias que "
+
+msgid "your discount from the user account."
+msgstr "coincida con tu oferta de la cuenta del usuario."
+
+msgid "If you would like to have followers, please sign up also as VIP."
+msgstr "Si quieres tener seguidores debes inscribirte tambien como VIP"
+
+msgid "MERCHANT DETAILS"
+msgstr "Detalles del Negocio"
+
+msgid "Manager name"
+msgstr "Nombre del Director"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email Address"
+msgstr "dirección de correo electrónico"
+
+msgid "Password"
+msgstr "ntraseña"
+
+msgid "Confirm Password"
+msgstr "Confirmar contraseña"
+
+msgid "Business Name"
+msgstr "Nombre comercial"
+
+msgid "Telephone number"
+msgstr "Teléfono"
+
+msgid "Business address"
+msgstr "Dirección comercial"
+
+msgid "REGISTER YOUR VIP ACCOUNT"
+msgstr "gistra tu cuenta de VIP"
+
+msgid ""
+"We are the only platform that reward your fans for following your updates"
+msgstr "Somos la única plataforma que recompensa a tus fans por seguirte"
+
+msgid "Start by creating your VIP profile."
+msgstr "Comienza creando tu perfil de VIP"
+
+msgid ""
+"You can update your status through your dashboard online. Your fans will "
+"earn miles each time they check in,but Chat4miles is a mobile platform, your "
+"followers will check in to your updates with their smartphones."
+msgstr ""
+"uedes actualizar tu estado desde tu cuenta online. Tus fans ganarán millas "
+"cada vez que hacen un check in en tu estado, pero Chat4miles es una "
+"plataforma móvil, tus fans te seguirán desde sus teléfonos móviles."
+
+msgid ""
+"If you would like to offer deals with discounts that the users can buy with "
+"miles that they earn just for following you, please sign up also as a "
+"merchant."
+msgstr ""
+"Si quieres ofrecer ofertas con descuentos que los usuarios pueden comprar "
+"con millas que ganan solo por seguirte, inscíbete también como negocio."
+
+msgid "Login to your website"
+msgstr "Entra a tu cuenta"
+
+msgid "Merchant"
+msgstr "egocio"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "VIP DETAILS"
+msgstr "DETALLES VIP"
+
+msgid "My Deals"
+msgstr "Mis Ofertas"
+
+msgid "Add Deal"
+msgstr "Agregar Oferta"
+
+msgid "View Profile"
+msgstr "Mi Perfil"
+
+msgid "Edit Deal"
+msgstr "itar Oefrta"
+
+msgid "Deal Title"
+msgstr "Nombre de la Oferta"
+
+msgid "No of Deals"
+msgstr "Cantidad de Ofertas"
+
+msgid "Discount Percentage"
+msgstr "orcentaje del descuento"
+
+msgid "Discount"
+msgstr "Descuento"
+
+msgid "Total Price"
+msgstr "Precio Total"
+
+msgid "Deal Ends"
+msgstr "Oferta finaliza"
+
+msgid "Deal Conditions"
+msgstr "Condiciones de la Oferta"
+
+msgid "Deal Details"
+msgstr "Detalles de la Oferta"
+
+msgid "Deal Address"
+msgstr "Dirección de la Oferta"
+
+msgid "Profile Detail"
+msgstr "Detalles del Perfil"
+
+msgid "DELETE PROFILE"
+msgstr "Eliminar perfil"
+
+msgid "You have not added any status yet!"
+msgstr "Aun no has agregado ningun estado!"
+
+msgid "Add Status"
+msgstr "Agregar estado"
+
+msgid "Write Your Status"
+msgstr "Escribe tu estado"
+
+msgid "Terms and conditions"
+msgstr "Terminos Legales"
+
+msgid "Privacy Policy"
+msgstr "Privacidad y Cookies"
+
+msgid "Deal Price"
+msgstr "Precio de la oferta"
+
+msgid "Get Your App"
+msgstr "Get Your App"
+
+msgid "Find Friends"
+msgstr "Encuentra Amigos"
+
+msgid "Access the Functionality"
+msgstr "Acceder a la funcionalidad"
+
+msgid "Enjoy Chatting"
+msgstr "Disfrute Charlando"
+
+msgid "Share Your Ideas"
+msgstr "Comparta sus ideas"
+
+msgid "Follow VIPs"
+msgstr "siga VIPs"
+
+msgid "Earn Miles"
+msgstr "Gane Millas"
+
+msgid "Redeem Deals"
+msgstr "Canjear ofertas"
+
+msgid "Group Chat"
+msgstr "Group Chat"
+
+msgid "Contacts"
+msgstr "Contactos"
+
+msgid "Audio Message"
+msgstr "Mensaje de audio"
+
+msgid "Video Message"
+msgstr "Mensaje de Video"
+
+msgid "Elevator Floors"
+msgstr "Ascensor Suelo"
+
+msgid "Price"
+msgstr "precio"
+
+msgid "Browse"
+msgstr "Explorar"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Delete Profile"
+msgstr "borrar perfil"
+
+msgid "Edit Profile"
+msgstr "Editar Perfil"
+
+msgid "My Status"
+msgstr "Mi estado"
+
+msgid "Me"
+msgstr "me"
+
+msgid "Posted on"
+msgstr "publicado el"
+
+msgid "Edit Status"
+msgstr "Editar Estado"
+
+msgid "Edit Your Status"
+msgstr "Editar su Estado"
+
+msgid "Forgot Password"
+msgstr "Olvidé mi contraseña"
+
+msgid "Change Password"
+msgstr "Cambiar la contraseña"
+
+msgid "Old Password"
+msgstr "Contraseña anterior"
+
+msgid "New Password"
+msgstr "Nueva contraseña"
+
+msgid "ACTIVATE YOUR ACCOUNT"
+msgstr "Activa tu cuenta"
+
+msgid "Enter Code"
+msgstr "Introduzca el código"
+
+msgid ""
+"Please copy the code from email and insert the code for activate your "
+"account."
+msgstr ""
+"Por favor, copie el código de correo electrónico e introduzca el código para "
+"activar su cuenta."
+
+msgid "Do you forget the password. Enter the details to access your account."
+msgstr ""
+"¿Se le olvida la contraseña. Introduzca los detalles para acceder a su "
+"cuenta."
+
+msgid "Please enter registered email associated with the account."
+msgstr ""
+"Por favor escriba el correo electrónico registrada asociada a la cuenta ."
+
+msgid "ENTER THE DETAILS"
+msgstr "Introduzca los detalles"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "FORGET PASSWORD"
+msgstr "Olvide la contraseña"
+
+msgid "No Deals Found"
+msgstr "No se encontraron ofertas"
+
+msgid "VIP Marketing"
+msgstr "Marketing de VIP"
+
+msgid "Fan empowerment through social technology"
+msgstr "Empoderamiento de los fans a través de tecnología social"
+
+msgid "Engagement and audience measurement"
+msgstr "Involucrar y medir audiencias"
+
+msgid "Loyalty and Rewards"
+msgstr "Fidelidad y recompensas"
+
+msgid "eCommerce Platform"
+msgstr "Plataforma de eComercio"

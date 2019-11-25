@@ -1,0 +1,72 @@
+<h4>Do I need to become a member to use this site?</h4>
+<p>Anyone can use the search features on the home page of our site, but to view instructor profiles, job postings or class details, you will need to register with your name and email address.</p>
+<p>For the general public (“Customers”) and Instructors with basic memberships, registrationis FREE!</p>
+<p>If you are a gym, school, fitness center or studio (“Faculty”), or an Instructor with a Premium Membership (monthly or annual subscription) you will receive a series of additional benefits.  A list of benefits can be found by clicking the Instructor or Facility membership buttons on the home page of the website.</p>
+<h4>How do I join?</h4>
+<p>Choose the appropriate membership category on the home page of the site, and click “Sign Up” or go to the top right corner and click the orange “Member Login” button.  If you haven’t already registered, it will give you the option to sign up. </p>
+<h4>How much is a membership?</h4>
+<ul>
+	<li><strong>Customer Memberships</strong> are free!</li>
+	<li><strong>Basic Instructor Memberships</strong> are free!</li>
+	<li><strong>Premium Instructor Memberships</strong> are $19.99/month, or $199/year (2 months free).</li>
+	<li><strong>Facility Memberships</strong> are $29.99/month or $299/year (2 months free).</li>
+</ul>
+<h4>Where would I find an event near me?</h4>
+<p>On the home page of the site there is an “Events” box that features all of the events taking place in your area, based on your IP address or a city you select. Or, click “Events” at the top right of each page.</p>
+<h4>Where would I find a class near me?</h4>
+<p>On the home page of the site is a “Today’s Classes” box, which shows all of the classes in your area, which you can filter by class type. “Today’s Classes” can also be found at the top of each page of the site.</p>
+<p>There is also a main search box, where you can look for facilities or instructors in your area,based on your IP address or a city you select.</p>
+<h4>Can I leave a review for the instructor or facility?</h4>
+<p>You can leave a review for Premium Instructors and Facilities on their profile pages.</p>
+<h4>How do I access or edit my profile?</h4>
+<p>Once you have logged in to the site, you will automatically go to your profile page.  You will also notice your name and picture in the top right corner. If you leave your profile and want to get back to it, simply click on your name/picture and it will bring you back to your profile.</p>
+<h4>I have a technical problem, who do I contact?</h4>
+<p>If you are already in your account, simply click “Contact Us” (bottom left of your side panel). If you are unable to access your account, please leave us a detailed message using the “Contact” button (under “Support” at the bottom of each page of the site), or call 1-800-948-3006.  We will respond as soon as we can.</p>
+<h4>How do I change or cancel my membership?</h4>
+<p>You can upgrade or downgrade your membership using “Manage Account” towards the bottom left of your profile page.  If you’d like to close your account, click Contact us” (bottom left of your page) and we will close your account.</p>
+<h4>What is your privacy policy?</h4>
+<p>Our privacy policy is outlined under “Privacy Policy” under “Support” at the bottom of each page</p>
+<h4 style="text-decoration:underline;">Instructors</h4>
+<h4>What if the class/specialty I teach or my credential type is not listed?</h4>
+<p>Please click “Contact Us” from your profile page and request your class/credential.  We are always happy to add new formats and credentials as needed! </p>
+<h4>Can I link my account with another member?</h4>
+<p>Yes! If you are an instructor and the facility you work for is also a member, you can cross link to each other by clicking “Manage Facility”.  You can also add the facility’s name to any classes you schedule on your profile (but only if they are a member).</p>
+<p>This way, when someone searches for classes, it will show both your account and a link to your facility’s account, and vice versa.  If your facility is not a member, it will say “ask instructor” and they can message you to ask where the class is taking place.</p>
+<h4>How do I find a sub for my class?</h4>
+<p>If you are a Basic Instructor, you can search on your class type and location in the search box on the main page, and contact any appropriate instructors that appear in the results.</p>
+<p>If you are a Premium Instructor you can use “Power Search”, which allows you to find an instructor using much more detailed criteria, such as the days/times they are available, interest in subbing or permanent positions, credentials, CPR, insurance, fitness specialties, where they can travel etc.).</p>
+<p>Once you have refined your list of instructors, you can contact all of them at once (or just a select few) and the message will go to their look4fitness inbox, their phone via text and their email.  You can then select an instructor who replies to your message, and send another group message indicating you have filled the position.  It’s a constantly updated list of staff that fit the exact criteria you are looking for with a click of a button!</p> 
+<h4>How do I apply for jobs?</h4>
+<p>You can either visit the Jobs page, or, if a facility or premium instructor posts a job, and you fit the qualifications, the job will be delivered to your inbox!</p>
+<h4>How do I promote my classes/events?</h4>
+<p>Simply go to “add a class” or “post an event” on the side panel of your profile, and your class or event will show up whenever someone does a search!</p>
+<h4>How do I post articles/content?</h4>
+<p>Go to “Add Articles” on the side panel of your profile to add your own content!</p>
+<h4 style="text-decoration:underline;">Facilities</h4>
+<h4>How do I hire an instructor/trainer/coach?</h4>
+<p>You can either do a search for the criteria you are looking for using Power Search and contact a member instructor directly, OR you can post a job on the job board. If an instructor is a match, your job will go directly into their in-box!</p>
+<h4>What is Power Search?</h4>
+<p>“Power Search” allows you to find an instructor using much more detailed criteria, such as the days/times they are available, interest in subbing or permanent positions, credentials, CPR, insurance, fitness specialties, where they can travel etc.).</p>
+<p>Once you have refined your list of instructors, you can contact all of them at once (or just a select few) and the message will go to their look4fitness inbox, their phone via text and their email.  You can then select an instructor who replies to your message, and send another group message indicating you have filled the position.  It’s a constantly updated list of staff that fit the exact criteria you are looking for with a click of a button!</p>
+<h4>How do I post a job?</h4>
+<p>Click “Post a Job” on the side panel of your profile. You can post unlimited jobs with your membership!</p>
+<h4>Can my instructors link to my account?</h4>
+<p>Yes! If your instructor is also a member, you can cross link to each other by clicking “Manage Instructor”.  You can also add the instructor’s name to any classes you schedule on your profile.</p>
+<p>This way, when someone searches for classes, it will show both your account and a link to your instructor’s account, and vice versa.  If your instructor is not a member, it will say “ask facility” and they can message you to ask who is teaching the class.</p>
+<h4>Can several locations use the same account?</h4>
+<p>Yes, if you all share the same username and password, however, each account only has one address, and you would not be able to add each location’s classes to your profile, so it would likely not be practical to share one account.</p>
+<h4>What if I want to use the site but don’t want my facility to appear in searches?</h4>
+<p>We are adding a handy “Hide My Profile” button that you can click whenever you want to be “incognito”! </p>
+<h4>How do I market my classes/events?</h4>
+<p>All of your classes and events will appear in searches from the home page (Events box, Today’s Classes box, main search screen) based on the user’s IP address.  You can also include your website and social media on your profile, so that users can check out all you have to offer!</p>
+
+
+ 
+
+
+
+
+
+
+
+

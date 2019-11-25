@@ -1,0 +1,69 @@
+.owl-theme .owl-dots,
+.owl-theme .owl-nav {
+    text-align: center;
+    -webkit-tap-highlight-color: transparent
+}
+.owl-theme .owl-prev, .owl-theme .owl-next{
+    margin-top: 10px;
+	position:absolute;
+	top:50%;
+	display:block;
+	transform: translateY(-40%);
+	-webkit-transform: translateY(-40%);
+	-ms-transform: translateY(-40%);
+}
+#infographicModal .owl-theme .owl-prev{
+	left:-10em;
+}
+#infographicModal .owl-theme .owl-next{
+	right:-10em;
+}
+.owl-theme .owl-nav [class*=owl-] {
+    color: #FFF;
+    font-size: 14px;   
+    padding: 0;
+    background: #fff;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 100%;	
+}
+#infographicModal .owl-theme .owl-nav [class*=owl-]{
+	 margin:55px 5px;
+	 width:75px;
+	height:75px;
+}
+/*.owl-theme .owl-nav [class*=owl-]:hover {
+    background: #869791;
+    color: #FFF;
+    text-decoration: none
+}*/
+#infographicModal .owl-theme .owl-nav .disabled {
+    display:none;
+    cursor: default
+}
+
+#abcd.disabled{opacity:1 !important; background:url(../images/fa-right-tick.png) center center no-repeat !important;
+	width:75px;
+	height:75px; z-index:9999;}
+
+.owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: 10px
+}
+.owl-theme .owl-dots .owl-dot {
+    display: inline-block;
+    zoom: 1
+}
+.owl-theme .owl-dots .owl-dot span {
+    width: 13px;
+    height: 13px;
+    margin:10px 3px;
+    border:solid 1px #fff;
+    display: block;
+    -webkit-backface-visibility: visible;
+    transition: opacity .2s ease;
+    border-radius: 30px
+}
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: #fff;
+}

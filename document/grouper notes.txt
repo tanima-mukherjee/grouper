@@ -1,0 +1,13 @@
+browse groups text
+notification count
+message to multiple friends at once
+site chat screen
+notification as email
+push notification
+
+the text for the Blue box in the middle of the page called "Browse Groups" is simple:  "Click here to Browse Our Great Businesses in Your Community"
+
+and I think the blue box should be called "Browse Business Groups" rather than just Browse Groups.....
+
+sorry to throw this at you but i think we need an FAQ section on the Nav bar
+I've prepared a document that explains that users can't search for private groups and basically how to use all the site features...we will need to include this in the site but figure out how to make it look good rather than just a long text document

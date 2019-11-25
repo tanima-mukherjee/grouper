@@ -1,0 +1,507 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jishnu Saha <jishnu.php@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+
+msgid "Home"
+msgstr "HOME"
+
+msgid "How"
+msgstr "HOW"
+
+msgid "Pricing"
+msgstr "PRICING"
+
+msgid "Deals"
+msgstr "DEALS"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Signup"
+msgstr "Signup"
+
+msgid "The first mobile"
+msgstr "The first mobile"
+
+msgid "Guerrilla Marketing"
+msgstr "Guerrilla Marketing"
+
+msgid "Platform in the"
+msgstr "Platform in the"
+
+msgid "world"
+msgstr "world"
+
+msgid "Fill your venue with"
+msgstr "Fill your venue with"
+
+msgid "a Call to Action that"
+msgstr "a Call to Action that"
+
+msgid "last up to 60 minutes"
+msgstr "last up to 60 minutes"
+
+msgid "No more"
+msgstr "No more"
+
+msgid "empty businesses!"
+msgstr "empty businesses!"
+
+msgid "your deal"
+msgstr "your deal"
+
+msgid "NOW!"
+msgstr "NOW!"
+
+msgid "SMS voucher"
+msgstr "SMS voucher"
+
+msgid "Get your free"
+msgstr "Get your free"
+
+msgid "before it expires"
+msgstr "before it expires"
+
+msgid "in some minutes!"
+msgstr "in some minutes!"
+
+msgid "Attract clients to"
+msgstr "Attract clients to"
+
+msgid "your venue"
+msgstr "your venue"
+
+msgid "during slow"
+msgstr "during slow"
+
+msgid "business hours"
+msgstr "business hours"
+
+msgid "Deals that last"
+msgstr "Deals that last"
+
+msgid "60 minutes..."
+msgstr "60 minutes..."
+
+msgid "or less"
+msgstr "or less"
+
+msgid "You have"
+msgstr "You have"
+
+msgid "Hours"
+msgstr "Hours"
+
+msgid "Minutes"
+msgstr "Minutes"
+
+msgid "Seconds"
+msgstr "Seconds"
+
+msgid "to redeem this deal"
+msgstr "to redeem this deal"
+
+msgid "Redirect traffic to your"
+msgstr "Redirect traffic to your"
+
+msgid "venue"
+msgstr "venue"
+
+msgid "business"
+msgstr "business"
+
+msgid "or"
+msgstr "or"
+
+msgid "event"
+msgstr "event"
+
+msgid "from"
+msgstr "from"
+
+msgid "passenger by"
+msgstr "passers-by"
+
+msgid "or the social networks at the time"
+msgstr "or the social networks at the time of your choice"
+
+msgid "Start your CAMPAIGN NOW!"
+msgstr "Start your CAMPAIGN NOW!"
+
+msgid "Email Address"
+msgstr "Email Address"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "User Name"
+msgstr "User Name"
+
+msgid "Confirm password"
+msgstr "Confirm password"
+
+msgid "Activation Code"
+msgstr "Activation Code"
+
+msgid "Account Activation"
+msgstr "Account Activation"
+
+msgid "Your account has not yet been activated."
+msgstr "Your account has not yet been activated."
+
+msgid "Incorrect password! Please try again."
+msgstr "Incorrect password! Please try again."
+
+msgid "Incorrect email address! Please try again."
+msgstr "Incorrect email address! Please try again."
+
+msgid "Invalid Activation Code."
+msgstr "Invalid Activation Code."
+
+msgid "Successfull Merchant Account Activation."
+msgstr "Successfull Merchant Account Activation."
+
+msgid "Email-id already exists."
+msgstr "Email-id already exists."
+
+msgid "You registration has been successful. Check your email for account activation."
+msgstr "You registration has been successful. Check your email for account activation."
+
+msgid "Profile"
+msgstr "Profile"
+
+msgid "Campaign"
+msgstr "Campaign"
+
+msgid "Venue name"
+msgstr "Venue name"
+
+msgid "Manager name"
+msgstr "Manager name"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Phone number"
+msgstr "Phone number"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "State"
+msgstr "State"
+
+msgid "City"
+msgstr "City"
+
+msgid "Zipcode"
+msgstr "Zipcode"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Business address"
+msgstr "Business address"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Deal name"
+msgstr "Deal name"
+
+msgid "Deal description"
+msgstr "Deal description"
+
+msgid "Address"
+msgstr "Address"
+
+msgid "Year"
+msgstr "Year"
+
+msgid "Month"
+msgstr "Month"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Hour"
+msgstr "Hour"
+
+msgid "Minute"
+msgstr "Minute"
+
+msgid "Sec"
+msgstr "Sec"
+
+msgid "SMS voucher request start"
+msgstr "SMS voucher request start"
+
+msgid "SMS voucher request end"
+msgstr "SMS voucher request end"
+
+msgid "Redeem time starts"
+msgstr "Redeem time starts"
+
+msgid "Redeem time ends"
+msgstr "Redeem time ends"
+
+msgid "Amount of persons to target"
+msgstr "Amount of persons to target"
+
+msgid "one SMS per person"
+msgstr "one SMS per person"
+
+msgid "minimum 50"
+msgstr "minimum 50"
+
+msgid "Target People"
+msgstr "Target People"
+
+msgid "please select"
+msgstr "please select"
+
+msgid "guerrilla marketing process"
+msgstr "I will grab people from the street or my venue using Guerrilla Marketing tactics"
+
+msgid "guerrilla marketing warning"
+msgstr "I will send my employees or a street team with tablets or smartphones and invite people on the street to request a SMS voucher"
+
+msgid "invite users"
+msgstr "Invite users through social networks to come to my venue and request an SMS voucher"
+
+msgid "invite request vouchers"
+msgstr "I will post the deal on the social networks and invite users to come to my venue and request an SMS voucher"
+
+msgid "allow user social networks"
+msgstr "I will post the deal on the social networks and allow the users to request an SMS voucher directly from the network"
+
+msgid "Shown To Facebook"
+msgstr "Post on Facebook"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "No"
+msgstr "No"
+
+msgid "Shown To Twitter"
+msgstr "Post on Twitter"
+
+msgid "Buy SMS credit and"
+msgstr "Buy SMS credit and"
+
+msgid "Credit card payment"
+msgstr "Your payment is being processed by Stripe.com payment gateway. The information you provide is not being stored by us and is fully encrypted and safe."
+
+msgid "Card Number"
+msgstr "Card Number"
+
+msgid "Enter the number without spaces or hyphens"
+msgstr "Enter the number without spaces or hyphens"
+
+msgid "CVC"
+msgstr "CVC"
+
+msgid "Expiration (MM)"
+msgstr "Expiration (MM)"
+
+msgid "Expiration (YYYY)"
+msgstr "Expiration (YYYY)"
+
+msgid "Publish campaign"
+msgstr "Publish campaign"
+
+msgid "How to fill your venue"
+msgstr "How to fill your venue"
+
+msgid "Why mobile coupons"
+msgstr "Why mobile coupons"
+
+msgid "Guerrilla marketing"
+msgstr "Guerrilla marketing"
+
+msgid "About"
+msgstr "About"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Privacy"
+msgstr "Privacy Policy and Cookies"
+
+msgid "Legal Terms"
+msgstr "Legal Terms"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Download the scanning app"
+msgstr "Download the scanning app"
+
+msgid "why mobile coupons text"
+msgstr "<small>Why</small><span>Mobile</span>Coupons?"
+
+msgid "effective1"
+msgstr "of US mobile phone owners prefer SMS coupons"
+
+msgid "effective2"
+msgstr "smartphone shoppers use their devices for mobile coupons"
+
+msgid "effective3"
+msgstr "million consumers will use mobile coupons in 2014"
+
+msgid "effective4"
+msgstr "of mobile shoppers search for coupons while in store"
+
+msgid "mobile coupons users worldwide"
+msgstr "mobile coupons users worldwide"
+
+msgid "Fill your business, event or venue in the early"
+msgstr "Fill your business, event or venue in the early"
+
+msgid "hours, slow day or whenever you want"
+msgstr "hours, slow day or whenever you want"
+
+msgid "This action has attracted the amount of public"
+msgstr "This action has attracted the amount of public"
+
+msgid "you want when you want"
+msgstr "you want when you want"
+
+msgid "Create<br />your<br />campaign"
+msgstr "Create<br />your<br />campaign"
+
+msgid "Set date<br>and time of<br>your deal"
+msgstr "Set date<br>and time of<br>your deal"
+
+msgid "Buy<br />SMS<br />credit"
+msgstr "Buy<br />SMS<br />credit"
+
+msgid "Per"
+msgstr "Per"
+
+msgid "What do you get with one sms"
+msgstr "What do you get with one sms"
+
+msgid "One sms will bring one person to your place"
+msgstr "One sms will bring one person to your place"
+
+msgid "One sms will create loyalty to your place"
+msgstr "One sms will create loyalty to your place"
+
+msgid "One sms will fill your place in slow hours"
+msgstr "One sms will fill your place in slow hours"
+
+msgid "Start your campaign"
+msgstr "Start your campaign"
+
+msgid "My Account"
+msgstr "My Account"
+
+msgid "Logout"
+msgstr "Logout"
+
+msgid "Contact us"
+msgstr "Contact us"
+
+msgid "Full name"
+msgstr "Full name"
+
+msgid "Subject"
+msgstr "Subject"
+
+msgid "Comment"
+msgstr "Comment"
+
+msgid "Your message was sent. Our support team will contact you soon"
+msgstr "Your message was sent. Our support team will contact you soon"
+
+msgid "Put Email Address"
+msgstr "Put Email Address"
+
+msgid "Original Price"
+msgstr "Original Price"
+
+msgid "Discounted Price"
+msgstr "Discounted Price"
+
+msgid "Free sms request time duration"
+msgstr "SMS request minutes duration"
+
+msgid "Redeem time duration"
+msgstr "Redeem minutes duratiion"
+
+msgid "View All"
+msgstr "View All"
+
+msgid "Request free SMS"
+msgstr "Request free SMS"
+
+msgid "Time to request free SMS"
+msgstr "Time to request free SMS"
+
+msgid "Redeem on"
+msgstr "Redeem on"
+
+msgid "Between"
+msgstr "Between"
+
+msgid "to"
+msgstr "to"
+
+msgid "No such result found"
+msgstr "No results were found"
+
+msgid "Expired Deals"
+msgstr "Expired Deals"
+
+msgid "Expired Deal"
+msgstr "Expired Deal"
+
+msgid "No expired deal found"
+msgstr "No expired deals were found"
+
+msgid "Receive a free SMS voucher"
+msgstr "Receive a free SMS voucher"
+
+msgid "You will get a voucher to the following number"
+msgstr "You will receive a voucher to the following number"
+
+msgid "Enter your mobile number"
+msgstr "Enter your mobile number"
+
+msgid "Put your mobile number with country prefix followed by your number without symbols, spaces or first 0"
+msgstr "Put your mobile number with country prefix followed by your number without symbols, spaces or first 0"
+
+msgid "Please create a very attractive offer. We suggest a popular product that will draw clients to your place."
+msgstr "Please create a very attractive offer. We suggest a popular product that will draw clients to your place."
+
+msgid "This is the price the clients will pay with this voucher, give them a big discount"
+msgstr "This is the price the clients will pay with this voucher, give them a big discount"
+
+msgid "This is the time when your campaign starts. Remember you only have some minutes to engage the public"
+msgstr "This is the time when your campaign starts. Remember you only have some minutes to engage the public"
+
+msgid "Please select how many minutes your campaign will last. It can be one minute up to sixty"
+msgstr "Please select how many minutes your campaign will last. It can be one minute up to sixty"
+
+msgid "Your clients have already requested an SMS voucher. Select the day and the time you want them in your place to redeem the deal"
+msgstr "Your clients have already requested an SMS voucher. Select the day and the time you want them in your place to redeem the deal"
+
+msgid "Please select how many minutes your clients have to redeem their vouchers. It can be one minute up to sixty"
+msgstr "Please select how many minutes your clients have to redeem their vouchers. It can be one minute up to sixty"
+

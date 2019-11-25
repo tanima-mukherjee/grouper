@@ -1,0 +1,1077 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alok das <alok.das123@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+
+msgid "Thank your for purchase. Please check your email for further instructions."
+msgstr "Gracias por su compra. Por favor revise su correo electrónico para obtener más instrucciones."
+
+msgid "We are sorry, but apparently there is a problem with the credit card information you have submitted. Please resubmit the information or try another credit card or method of payment."
+msgstr ".Lo sentimos, pero por lo visto hay un problema con la información de la tarjeta de crédito que ha presentado. Por favor presente de nuevo la información o intente."
+
+msgid "You registration has been successful. Check your email for account activation."
+msgstr "Su inscripción ha sido exitosa. Revise su correo electrónico para activación de la cuenta."
+
+msgid "Your account have been blocked! Please contact to the support team at support@misterheadhunter.com"
+msgstr "Su cuenta se ha bloqueado! Por favor póngase en contacto con el equipo de apoyo en support@misterheadhunter.com"
+
+msgid "Your account is not yet activated! Please wait for its activation."
+msgstr "Aún no está activada su cuenta! Por favor, espere para su activación."
+
+msgid "Incorrect password! Please try again."
+msgstr "¡Contraseña incorrecta! Por favor intente otra vez."
+
+msgid "Profile Updated Successfully."
+msgstr "Perfil actualizado correctamente."
+
+msgid "Your password has been successfully changed."
+msgstr "La contraseña se ha cambiado correctamente."
+
+msgid "Please check your email to reset your password."
+msgstr "Por favor revise su correo electrónico para restablecer la contraseña."
+
+msgid "Your account hast not yet been activated."
+msgstr "Su cuenta aún no ha sido activada."
+
+msgid "This email doesn't exist in our database."
+msgstr "Este correo electrónico no existe en nuestra base de datos."
+
+msgid "Your account has been successfully activated."
+msgstr "Su cuenta se ha activado correctamente."
+
+msgid "Activation code didn't match. Please try again."
+msgstr "El código de activación no coincide. Por favor intente otra vez."
+
+msgid "Your profile has been updated."
+msgstr "Su perfil se ha actualizado."
+
+msgid "Job has been posted."
+msgstr "Trabajo ha sido publicado."
+
+msgid "Job has been edited."
+msgstr "El trabajo se ha corregido."
+
+msgid "Job has been closed."
+msgstr "El trabajo se ha cerrado"
+
+msgid "Job has been deleted."
+msgstr "El trabajo se ha borrado."
+
+msgid "You have already sent an offer to this candidate. Please wait for his/her response."
+msgstr "Usted ya ha enviado una oferta a este candidato. Por favor espere su respuesta."
+
+msgid "Good News! candidate has accepted your offer. Please see your job section for further details."
+msgstr "¡Buenas noticias! El candidato ha aceptado tu oferta. Por favor vea la sección de trabajo para más detalles."
+
+msgid "You have already applied for this job. Please wait for the company to respond."
+msgstr "Usted ya ha aplicado para este trabajo. Por favor espere a que la compañía le responda."
+
+msgid "Offered amount should be greater than the candidate's current worth/salary. Please offer a higher amount."
+msgstr "La cantidad ofrecida debe ser mayor que el valor/sueldo actual del candidato. Por favor ofrezca una cantidad más alta."
+
+msgid "Your offer has been successfully sent!"
+msgstr "Su oferta ha sido enviada correctamente!"
+
+msgid "You have already changed your worth/salary figure three times this year! Please try again next year."
+msgstr "Usted ya ha cambiado su valor/sueldo de cifra tres veces este año! Por favor intente otra vez  el próximo año."
+
+msgid "Your initial worth should be greater than 0."
+msgstr "Su valor inicial debe ser mayor que 0."
+
+msgid "You are able to change your worth / salary figure three times per year."
+msgstr "Usted puede cambiar su valor/sueldo de cifra tres veces por año."
+
+msgid "Please make sure the start date is before the end date."
+msgstr "Por favor, asegúrese de que la fecha de inicio este antes de la fecha de finalización."
+
+msgid "Activation"
+msgstr "Activación"
+
+msgid "Activate"
+msgstr "Activar"
+
+msgid "your account"
+msgstr "su cuenta"
+
+msgid "Activation Code"
+msgstr "Código de activación"
+
+msgid "Activate your account"
+msgstr "Activar tu cuenta"
+
+msgid "Click to Login"
+msgstr "Haga clic para iniciar sesión"
+
+msgid "Change password"
+msgstr "Cambiar contraseña"
+
+msgid "Old password"
+msgstr "Antigua contraseña"
+
+msgid "New password"
+msgstr "Nueva contraseña"
+
+msgid "Change"
+msgstr "Cambio"
+
+msgid "Forgot Password"
+msgstr "¿Has olvidado la contraseña?"
+
+msgid "Send Email"
+msgstr "Enviar correo electrónico"
+
+msgid "Reset Password"
+msgstr "Restablecer de contraseña"
+
+msgid "User Sign In"
+msgstr "Inicio de sesión de usuario"
+
+msgid "Email"
+msgstr "Correo electrónico"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Forgot your"
+msgstr "¿Olvidó su"
+
+msgid "password"
+msgstr "contraseña"
+
+msgid "Sign In"
+msgstr "Inicia sesión"
+
+msgid "Candidate"
+msgstr "Candidato"
+
+msgid "or"
+msgstr "o"
+
+msgid "Sign up for Mister Headhunter"
+msgstr "Suscríbase a Mister Headhunter"
+
+msgid "View Public Profile"
+msgstr "Ver perfil público"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Worth"
+msgstr "Valor"
+
+msgid "Email id"
+msgstr "Identificación de correo electrónico"
+
+msgid "Profile Hits"
+msgstr "Éxitos del Perfil"
+
+msgid "views"
+msgstr "Panorama"
+
+msgid "Contact Information"
+msgstr "Información de contacto"
+
+msgid "First Name"
+msgstr "Primer nombre"
+
+msgid "Last Name"
+msgstr "Apellido"
+
+msgid "Job Title"
+msgstr "Título de Trabajo"
+
+msgid "Currency"
+msgstr "Moneda"
+
+msgid "Select Currency"
+msgstr "Seleccione moneda"
+
+msgid "Country / Region"
+msgstr "País / Región"
+
+msgid "Select Country"
+msgstr "Seleccione el País"
+
+msgid "State"
+msgstr "Estado"
+
+msgid "Select State"
+msgstr "Seleccione el estado"
+
+msgid "City"
+msgstr "Ciudad"
+
+msgid "Select City"
+msgstr "Seleccione el ciudad"
+
+msgid "ZIP Code"
+msgstr "Código postal"
+
+msgid "Phone"
+msgstr "Teléfono"
+
+msgid "Mobile Phone"
+msgstr "Teléfono móvil"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Current Status"
+msgstr "Estado actual"
+
+msgid "Skills & Expertise"
+msgstr "Habilidades & Pericia"
+
+msgid "Add Skill"
+msgstr "Agregar Habilidad"
+
+msgid "Add Skills"
+msgstr "Agregar Habilidades"
+
+msgid "Please enter a skill."
+msgstr "Por favor, introduzca una habilidad."
+
+msgid "Professional Experience"
+msgstr "Suscríbase a Mister Headhunter"
+
+msgid "Add Experience"
+msgstr "Ver perfil público"
+
+msgid "Company"
+msgstr "Compañía"
+
+msgid "Working"
+msgstr "Trabajo"
+
+msgid "Location"
+msgstr "Ubicación"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Details"
+msgstr "Detalles"
+
+msgid "Time Period"
+msgstr "Periodo de Tiempo"
+
+msgid "Current position"
+msgstr "Posición actual"
+
+msgid "Month"
+msgstr "Mes"
+
+msgid "Year"
+msgstr "Año"
+
+msgid "to"
+msgstr "a"
+
+msgid "Company Home Page"
+msgstr "Página Principal de la Compañía"
+
+msgid "Industry"
+msgstr "Industria"
+
+msgid "Select Industry"
+msgstr "Seleccione la Industria"
+
+msgid "Duties & Responsibilities"
+msgstr "Deberes & Responsabilidades"
+
+msgid "This information will be displayed on your public profile."
+msgstr "Esta información se mostrará en tu perfil público."
+
+msgid "Add Another Job"
+msgstr "Añadir otro Trabajo"
+
+msgid "Educational Background"
+msgstr "Antecedentes Educativos"
+
+msgid "Add Education"
+msgstr "Añadir Educación"
+
+msgid "Edit Another Educational Background"
+msgstr "Editar Otro Antecedentes Educativos"
+
+msgid "School / College / University"
+msgstr "Escuela / Colegió / Universidad"
+
+msgid "Field of Study"
+msgstr "Campo de Estudio"
+
+msgid "Specialized Subjects"
+msgstr "Temas Especializados"
+
+msgid "From"
+msgstr "Desde"
+
+msgid "Until"
+msgstr "Hasta"
+
+msgid "Degree/ Diploma"
+msgstr "Título / Diploma"
+
+msgid "Update"
+msgstr "Actualizar"
+
+msgid "Add Another Qualification"
+msgstr "Añadir otra cualificación"
+
+msgid "Certification / Qualification"
+msgstr "Certificación / cualificación"
+
+msgid "Add Certification"
+msgstr "Añadir certificación"
+
+msgid "Edit Certification / Qualification"
+msgstr "Editar certificación / cualificación"
+
+msgid "Certification / Qualifications"
+msgstr "Certificación / cualificaciones"
+
+msgid "Add Another Certification / Qualification"
+msgstr "Añadir otra certificación / cualificación"
+
+msgid "Certifications / Qualifications"
+msgstr "Certificaciones / cualificaciones"
+
+msgid "Completion Date"
+msgstr "Fecha de finalización"
+
+msgid "Degree"
+msgstr "Título"
+
+msgid "Language Known"
+msgstr "Idioma conocido"
+
+msgid "Add Language"
+msgstr "Agregar idioma"
+
+msgid "Edit Language"
+msgstr "Editar idioma"
+
+msgid "Select Language"
+msgstr "Seleccionar idioma"
+
+msgid "Add Another Language"
+msgstr "Agregar otro idioma"
+
+msgid "Achievements"
+msgstr "Logros"
+
+msgid "Add Achievement"
+msgstr "Añadir logro"
+
+msgid "Please enter your achievement."
+msgstr "Por favor, introduzca su logro."
+
+msgid "Experience"
+msgstr "Experiencia"
+
+msgid "Skills"
+msgstr "Habilidades "
+
+msgid "Oops, no user found! Double check your search parameters."
+msgstr "¡Ups!, ningún usuario encontrado! Verifique los parámetros de la búsqueda."
+
+msgid "Send Job Offer"
+msgstr "Enviar oferta de trabajo"
+
+msgid "Select Your Job"
+msgstr "Seleccione su trabajo"
+
+msgid "Select Job"
+msgstr "Seleccione trabajo"
+
+msgid "Offered Amount"
+msgstr "Cantidad ofrecida "
+
+msgid "Offer's Currency"
+msgstr "Oferta de moneda "
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Upload Profile Picture"
+msgstr " Cargar Imagen de perfil "
+
+msgid "Profile Picture"
+msgstr "Imagen de perfil "
+
+msgid "Upload Photo"
+msgstr "Subir foto "
+
+msgid "till date"
+msgstr "Hasta la fecha"
+
+msgid "Organization"
+msgstr "Organización "
+
+msgid "Duration"
+msgstr "Duración"
+
+msgid "Specialized Subject"
+msgstr "Tema Especializado"
+
+msgid "from"
+msgstr "De"
+
+msgid "Do you really want to accept this job offer?"
+msgstr "¿Realmente desea aceptar esta oferta de trabajo?"
+
+msgid "No"
+msgstr "No"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "Accepted"
+msgstr "Aceptado"
+
+msgid "View Offer Details"
+msgstr "Ver detalles de la oferta"
+
+msgid "View Job"
+msgstr "Ver trabajo"
+
+msgid "View Company"
+msgstr "Ver Compañia"
+
+msgid "Oops, you did not accept any job offers!"
+msgstr "¡Ups!, no aceptó ninguna ofertas de trabajo!"
+
+msgid "Applied"
+msgstr "Aplicado"
+
+msgid "Applied On"
+msgstr "Aplicado en"
+
+msgid "Oops, you did not apply for any job!"
+msgstr "¡Ups!, usted no aplico para ningún trabajo!"
+
+msgid "Offered Job"
+msgstr "Trabajo ofrecido"
+
+msgid "Offer"
+msgstr "Oferta"
+
+msgid "You currently have no job offer!"
+msgstr "Actualmente no tiene ninguna oferta de trabajo!"
+
+msgid "Do you really want to reject this job offer?"
+msgstr "¿Realmente desea rechazar esta oferta de trabajo?"
+
+msgid "Oops, you did not reject any  jobs!"
+msgstr "Oops, no rechazó ningún trabajo!"
+
+msgid "Edit Profile"
+msgstr "Editar perfil"
+
+msgid "Enter your new profile information in the fields below"
+msgstr "Introduzca la información de su nuevo perfil en los siguientes"
+
+msgid "Company Description"
+msgstr "Descripción de la empresa"
+
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+msgid "Website"
+msgstr "Sitio Web"
+
+msgid "for example"
+msgstr "por ejemplo"
+
+msgid "Address Line 1"
+msgstr "Línea de dirección 1"
+
+msgid "Address Line 2"
+msgstr "Línea de dirección 2"
+
+msgid "Country"
+msgstr "País"
+
+msgid "State / Region"
+msgstr "Estado / Región"
+
+msgid "ZIP code"
+msgstr "Código postal"
+
+msgid "Logo"
+msgstr "Logotipo"
+
+msgid "Email-Id"
+msgstr "Identificación de correo electrónico"
+
+msgid "Confirm Password"
+msgstr "Confirmar contraseña"
+
+msgid "Employer Sign In"
+msgstr "Ingreso de Empleado"
+
+msgid "View Profile"
+msgstr "Ver perfil"
+
+msgid "This is your current information"
+msgstr "Esta es la información actual"
+
+msgid "Contact No."
+msgstr "Numero de Contacto"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "How Much Time Do you Waste Screening Unqualified Applications?"
+msgstr "¿Cuánto tiempo usted gasta en la proyección Aplicaciones no calificadas?"
+
+msgid "When you join Mister Headhunter, you will be able to search for candidates and post jobs for free while minimizing the amount of unqualified applications for your vacancies. Mister Headhunter also brings candidates to you, making it easier to find the right professional for the job."
+msgstr "Cuando se una a Mister Headhunter, usted será capaz de buscar candidatos y publicar trabajos gratis, minimizando la cantidad de aplicaciones no calificadas para sus vacantes. Mister Headhunter trae también candidatos a usted, haciendo más fácil encontrar al profesional adecuado para el trabajo."
+
+msgid "First time on Mister Headhunter?"
+msgstr "La primera vez en Mister Headhunter?"
+
+msgid "Company Name"
+msgstr "Nombre de la compañía"
+
+msgid "Get Started - It's Free!"
+msgstr "Empezar - ¡Es gratis!"
+
+msgid "Reasons To Join Mister Headhunter"
+msgstr "Razones para registrarse en Mister Headhunter"
+
+msgid "We are constantly striving to optimize the work flow involved with finding the right professionals for your organization and hiring them. We understand how tired you are of screening applications that don't even carry one relevant skill for the job, or how disappointing it is to find the right candidate only to later lose them during the salary negotiation phase."
+msgstr "Nos esforzamos constantemente para optimizar el flujo de trabajo implicado con la búsqueda de los profesionales adecuados para su organización y contratación. Entendemos lo cansado que está  en proyecciones de aplicaciones que incluso no llevan una habilidad relevante para el trabajo, o cómo decepcionante es encontrar al candidato ideal sólo para perderlos más tarde durante la fase de la negociación del sueldo."
+
+msgid "Searching for suitable candidates is easier at Mister Headhunter. After you create a job post, qualified candidates will be displayed on your dashboard with amazing matching accuracy."
+msgstr "La búsqueda de candidatos convenientes es más fácil en Mister Headhunter. Después de que cree un puesto de trabajo, los candidatos calificados se mostrarán en su tablero con increíble precisión de exactitud."
+
+msgid "Job Seekers will not be able to apply for the job unless they match the location and key skills you require for the role."
+msgstr "Los buscadores de trabajo no podrán aplicar para el trabajo a menos que correspondan a la ubicación y habilidades claves que requiere para el papel. "
+
+msgid "Applicants will be more committed to the hiring process because of the transparency offered from the start."
+msgstr "Los solicitantes serán más comprometidos con el proceso de contratación debido a la transparencia que ofrece desde el principio."
+
+msgid "This is"
+msgstr "Esto es"
+
+msgid "current information"
+msgstr "Información actual"
+
+msgid "Contact Name"
+msgstr "Nombre de contacto"
+
+msgid "Home Phone"
+msgstr "Teléfono de casa"
+
+msgid "Active Job list"
+msgstr "Lista de Trabajo activa"
+
+msgid "Key Skill"
+msgstr "Habilidad clave"
+
+msgid "Salary Range"
+msgstr "Rango de salario"
+
+msgid "Offers Sent"
+msgstr "Ofertas enviadas"
+
+msgid "Job Applicants"
+msgstr "Solicitantes de empleo"
+
+msgid "View"
+msgstr "Panorama"
+
+msgid "Copy Job"
+msgstr "Trabajo de la copia"
+
+msgid "Close Job"
+msgstr "Cierre de Trabajo"
+
+msgid "Send to trash"
+msgstr "Envíe a la basura"
+
+msgid "This job will expire within"
+msgstr "Este trabajo vencerá dentro de"
+
+msgid "Days."
+msgstr "Días."
+
+msgid "This job will expire Today."
+msgstr "Este trabajo se vence hoy."
+
+msgid "Continue"
+msgstr "Continuar"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Oops, no job found!"
+msgstr "Oops, no trabajo encontrado!"
+
+msgid "Archive Job list"
+msgstr "Lista de trabajo archivado"
+
+msgid "Job Description"
+msgstr "Descripción del trabajo"
+
+msgid "Desired Candidate Profile"
+msgstr "Perfil de candidato deseado"
+
+msgid "Job Post"
+msgstr "Puesto de trabajo"
+
+msgid "fields are mandatory"
+msgstr "Los campos son obligatorios"
+
+msgid "Alternative Job titles 1"
+msgstr "Títulos alternativos de trabajo 1"
+
+msgid "Alternative Job titles 2"
+msgstr "Títulos alternativos de trabajo 2"
+
+msgid "Key Skills"
+msgstr "Habilidades claves"
+
+msgid "Salary Range (P.A)"
+msgstr "Rango de salario (P.A)"
+
+msgid "Vacation Days (P.A)"
+msgstr "Días de vacaciones (P.A)"
+
+msgid "Select Job Type"
+msgstr "Seleccione el tipo de trabajo"
+
+msgid "Full Time"
+msgstr "Tiempo completo"
+
+msgid "Part Time"
+msgstr "Tiempo parcial"
+
+msgid "Job Type"
+msgstr "Tipo de trabajo"
+
+msgid "Select Job Duration"
+msgstr "Seleccione la duración de Trabajo"
+
+msgid "Permanent"
+msgstr "Permanente"
+
+msgid "Temporary"
+msgstr "Temporal"
+
+msgid "Zip Code"
+msgstr "Código postal"
+
+msgid "Post"
+msgstr "Exponer"
+
+msgid "Edit Job"
+msgstr "Editar el trabajo"
+
+msgid "Do you really want to extend this job opening?"
+msgstr "¿Realmente quiere ampliar esta apertura de trabajo?"
+
+msgid "Is your search completed? After you close this job, it will not be visible to any candidates though it will be stored in the archive section."
+msgstr "¿Es completa la búsqueda? Después de que cierre este trabajo, no será visible para los candidatos aunque será almacenado en la sección de archivos."
+
+msgid "Candidate applied for"
+msgstr "Aplica para candidatos "
+
+msgid "No Skill Found."
+msgstr "Ninguna habilidad encontrada."
+
+msgid "Current Worth"
+msgstr "Valor Actual "
+
+msgid "Send Offer"
+msgstr "Enviar oferta "
+
+msgid "No one has applied for this job!"
+msgstr "Nadie ha aplicado para este trabajo!"
+
+msgid "View Offered Job"
+msgstr "Vea el trabajo ofrecido"
+
+msgid "Offer Details"
+msgstr "Detalles de la oferta "
+
+msgid "Offered To"
+msgstr "Ofreció a "
+
+msgid "Offer Status"
+msgstr "Estado de la oferta"
+
+msgid "Waiting for response"
+msgstr "Esperando respuesta "
+
+msgid "Rejected"
+msgstr "Rechazado"
+
+msgid "Accepted On"
+msgstr "Aceptado en "
+
+msgid "Rejected On"
+msgstr "Rechazado en"
+
+msgid "Candidate Contact Details"
+msgstr "Datos de contacto del candidato"
+
+msgid "Full Name"
+msgstr "Nombre completo "
+
+msgid "Mobile No."
+msgstr "Número de teléfono móvil."
+
+msgid "Phone No."
+msgstr "Número de teléfono."
+
+msgid "Post a new job"
+msgstr "Publicar un nuevo trabajo "
+
+msgid "Number of positions opened for this role?"
+msgstr "¿Número de posiciones abiertas para este papel? "
+
+msgid "Accept"
+msgstr "Aceptar "
+
+msgid "Reject"
+msgstr "Rechazar"
+
+msgid "Job Offered for the role of"
+msgstr "Trabajo ofrecido por el papel de"
+
+msgid "Offer Date"
+msgstr "Fecha de la oferta"
+
+msgid "Offer Amount"
+msgstr "Ofrecer Cantidad"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Actions"
+msgstr "Acciones "
+
+msgid "Oops, You did not send a job offer!"
+msgstr "¡Ups!, no ha enviado una oferta de trabajo!"
+
+msgid "Waiting for Approval"
+msgstr "En espera de aprobación "
+
+msgid "Contact Details"
+msgstr "Datos de contacto "
+
+msgid "Reject Offer"
+msgstr "Rechazar oferta"
+
+msgid "Are you sure you want trash this job?"
+msgstr "¿Está seguro que quiere destrozar este trabajo?"
+
+msgid "When you delete a job, all the information associated with the job will be permanently lost from your account and you will not be able to recover it. Are you still want to delete it?"
+msgstr "Cuando usted elimina un trabajo la información asociada con el trabajo permanentemente se perderá de su cuenta y no podrá recuperarlo. ¿Todavía quiere eliminarlo?"
+
+msgid "Jobs in Trash"
+msgstr "Trabajo en la basura"
+
+msgid "Delete permanently"
+msgstr "Eliminar permanentemente "
+
+msgid "Posted"
+msgstr "Publicado"
+
+msgid "by"
+msgstr "por"
+
+msgid "in"
+msgstr "en"
+
+msgid "Salary"
+msgstr "Salario"
+
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+msgid "of"
+msgstr "de"
+
+msgid "found"
+msgstr "encontrado"
+
+msgid "years"
+msgstr "años"
+
+msgid "Apply Now"
+msgstr "Aplicar ahora"
+
+msgid "Oops! No job found! Double check your search parameters."
+msgstr "¡Ups! Ningún trabajo encontrado! Verifique los parámetros de la búsqueda."
+
+msgid "Buy"
+msgstr "Comprar"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Oops, no cv template found!"
+msgstr "¡Ups!, no se ha encontrado la plantilla cv! "
+
+msgid "How Much Are You Worth Today?"
+msgstr "¿Cuánto vale usted hoy?"
+
+msgid "Join Mister Headhunter today and watch your worth (salary figure) increase every time a potential employer makes an offer. Find your true worth by letting companies compete for your skills and experience. No offer will ever be lower than your current salary!"
+msgstr "Únase a Mister Headhunter hoy, y mire su valor (Figura de salario) aumenta cada vez que un empleador potencial hace una oferta. Encuentre su valor verdadero permitiendo que las compañías compitan por sus habilidades y experiencia. ¡Ninguna oferta estará más baja que su salario actual!"
+
+msgid "Buy CV/Resume Template"
+msgstr "Comprar CV / Reanudar Plantilla"
+
+msgid "Fields with"
+msgstr "Campos con"
+
+msgid "are mandatory"
+msgstr "son obligatorios"
+
+msgid "Amount"
+msgstr "Cantidad"
+
+msgid "Street"
+msgstr "Calle"
+
+msgid "Select Card Type"
+msgstr "Seleccione el tipo de tarjeta"
+
+msgid "American Express"
+msgstr "American Express"
+
+msgid "Discover"
+msgstr "Discover"
+
+msgid "MasterCard"
+msgstr "MasterCard"
+
+msgid "Visa"
+msgstr "Visa"
+
+msgid "Card"
+msgstr "Tarjeta"
+
+msgid "Expiration Date"
+msgstr "Fecha de vencimiento"
+
+msgid "Security code (CVV)"
+msgstr "Código de seguridad (CVV)"
+
+msgid "Card holder's First Name"
+msgstr "Nombre del poseedor(ora) de la tarjeta"
+
+msgid "Card holder's last Name"
+msgstr "Apellido del poseedor(ora) de la tarjeta"
+
+msgid "Submit"
+msgstr "Presentar"
+
+msgid "Payment was Successfully sent!"
+msgstr "¡Pago fue enviado correctamente!"
+
+msgid "Edit Another Qualification"
+msgstr ""
+
+msgid "No City Found"
+msgstr "Ninguna ciudad encontrada"
+
+msgid "No State Found"
+msgstr "Ningún estado encontrado"
+
+msgid "Upload profile picture"
+msgstr "Subir foto de perfil"
+
+msgid "Search Jobs"
+msgstr "Buscar Trabajos"
+
+msgid "Keywords"
+msgstr "Palabras clave"
+
+msgid "By Country"
+msgstr "Por País"
+
+msgid "By State"
+msgstr "Por Estado"
+
+msgid "By City"
+msgstr "Por Ciudad"
+
+msgid "By Radius"
+msgstr "Por radio"
+
+msgid "Select Radius"
+msgstr "Seleccione radio"
+
+msgid "mi"
+msgstr "mi"
+
+msgid "km"
+msgstr "km"
+
+msgid "Search"
+msgstr "Búsqueda"
+
+msgid "Search Candidate"
+msgstr "Buscar Candidato"
+
+msgid "Username"
+msgstr "Nombre de usuario"
+
+msgid "Keep me signed in."
+msgstr "Mantener la sesión iniciada."
+
+msgid "Forgot Password?"
+msgstr "¿Olvidó su contraseña?"
+
+msgid "Welcome,"
+msgstr "Bienvenido,"
+
+msgid "Sign Out"
+msgstr "Cerrar la sesión"
+
+msgid "Already a member?"
+msgstr "¿Ya eres miembro?"
+
+msgid "Dashboard"
+msgstr "Tablero de mando"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Change Password"
+msgstr "Cambiar la contraseña"
+
+msgid "Job"
+msgstr "Trabajo"
+
+msgid "Post new job"
+msgstr "Publicar nuevo trabajo"
+
+msgid "Active Jobs"
+msgstr "Trabajos activos"
+
+msgid "Archived Jobs"
+msgstr "Trabajos archivados"
+
+msgid "Trashed Jobs"
+msgstr "Empleos destrozados"
+
+msgid "Help Desk"
+msgstr "Punto de ayuda"
+
+msgid "MH Wave"
+msgstr "Onda de MH"
+
+msgid "ago"
+msgstr "hace"
+
+msgid "View All"
+msgstr "Ver todos"
+
+msgid "No applications at the moment."
+msgstr "No hay aplicaciones por el momento."
+
+msgid "User Feedback"
+msgstr "Comentarios (reacción) de los usuarios"
+
+msgid "No responses at the moment."
+msgstr "No hay respuestas por el momento."
+
+msgid "Offers"
+msgstr "Ofertas"
+
+msgid "Offer Notification"
+msgstr "Notificación de la oferta"
+
+msgid "has made you an offered!"
+msgstr "¡le ha hecho una oferta!"
+
+msgid "View Offer"
+msgstr "Ver oferta"
+
+msgid "You have no offers at the moment."
+msgstr "No tienes ninguna oferta por el momento."
+
+msgid "Mister Headhunter. Transparency + Competition = Success"
+msgstr "Mister Headhunter. Transparencia +  Competencia=Éxito"
+
+msgid "Mister Headhunter Promoting better pay"
+msgstr ""
+
+msgid "Services"
+msgstr "Servicios"
+
+msgid "CV/Resume Templates"
+msgstr "CV / Reanudar las Plantillas"
+
+msgid "Executive Search & Headhunting"
+msgstr "Búsqueda de Ejecutivos & Cazatalentos"
+
+msgid "The Company"
+msgstr "La Compañía"
+
+msgid "About Us"
+msgstr "Acerca de Nosotros"
+
+msgid "Terms & Conditions"
+msgstr "Términos & Condiciones"
+
+msgid "Support"
+msgstr "Apoyo"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Mister Headhunter, Inc. All rights reserved. Please visit our Terms & Conditions for valuable information."
+msgstr "Mister Headhunter, Inc. Todos los derechos reservados. Por favor visite nuestros Términos & condiciones para la información importante."
+
+msgid "Privacy Policy"
+msgstr "Póliza de Privacidad"
+
+msgid "Job Application Notification"
+msgstr "Notificación de la aplicación de trabajo"
+
+msgid "There are currently no jobs suiting your profile."
+msgstr "No hay actualmente ninguno trabajo que satisfaga su perfil."
+
+msgid "applied for"
+msgstr "aplica para"
+
+msgid "There are no applications at the moment."
+msgstr "No hay ninguna aplicación por el momento."
+
+msgid "rejected your offer for"
+msgstr "rechazó su oferta de"
+
+msgid "View Response"
+msgstr "Ver Respuesta"
+
+msgid "You have no feedback at the moment."
+msgstr "No tiene ningún comentario (reacción) por el momento."
+
+msgid "Response Notifications"
+msgstr "Notificaciones de respuesta"
+
+msgid "Offered On"
+msgstr "Ofrecido en"
+
+msgid "Incorrect email address! Please try again."
+msgstr "¡Dirección de correo electrónico incorrecta! Por favor intente otra vez."
+

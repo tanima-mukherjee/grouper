@@ -1,0 +1,17 @@
+
+.prettyradio{display:inline-block;padding:0;margin:0; margin-right:10px; background:#eaeaea; border:1px solid #cfcfcf; padding:0 10px 0 5px;}
+.prettycheckbox{display:inline-block;padding:0;margin:0; margin-right:0;}
+.prettyradio>a{height:20px;width:20px;display:block;float:left;cursor:pointer;margin:7px 0 0 0;}
+.prettycheckbox>a{height:20px;width:20px;display:block;float:left;cursor:pointer;margin:3px 0 0 0;}
+
+.prettycheckbox>a:focus,.prettyradio>a:focus{outline:0 none}
+.prettycheckbox label,.prettyradio label{display:block;float:left;margin-left:8px;cursor:pointer; font-weight:400; font-size:15px; color:#3f3f3f; font-weight:400;}
+.prettycheckbox a.disabled,.prettycheckbox label.disabled,.prettyradio a.disabled,.prettyradio label.disabled{cursor:not-allowed}
+.prettyradio>a{background:url(../images/radio-uncheck.png) 0 0 no-repeat;}
+.prettyradio>a.checked{background:url(../images/radio-check.png) 0 0 no-repeat;}
+.prettycheckbox>a{background:url(../images/checkbox.png) 0 0 no-repeat;}
+.prettycheckbox>a.checked{background:url(../images/checkbox-active.png) 0 0 no-repeat;}
+.checkable label{
+	display:none!important;
+}
+
